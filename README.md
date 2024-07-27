@@ -18,8 +18,8 @@ This script is designed to automatically close the Firefox browser after a speci
    First, clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/YourUsername/YourRepositoryName.git
-   cd YourRepositoryName
+   git clone https://github.com/slimuCS/Timed-Browsing-for-Mac.git
+   cd Timed-Browsing-for-Mac
    ```
 
 2. **Make the Script Executable**:
@@ -37,6 +37,9 @@ This script is designed to automatically close the Firefox browser after a speci
    ```bash
    ./script.sh
    ```
+
+   OR 
+   you can use Automator(a built-in app in macOS) to build an "app" to excute script.sh as I do, this will make the process more smooth.
 
 ## Customization
 
@@ -96,6 +99,6 @@ If you'd like to contribute to this project, please fork the repository and use 
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-```
 
+```markdown
 > 2024/07/27 slimu \(- -)\
